@@ -39,7 +39,7 @@ class Game{
     }
 
 }
-public class cwh_50_ex3sol {
+public class guess_the_number {
     public static void main(String[] args) {
         /*
             Create a class Game, which allows a user to play "Guess the Number"
